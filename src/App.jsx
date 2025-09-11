@@ -6,6 +6,7 @@ import Program from './Components/Program/Program.jsx'
 import Title from './Components/Title/Title.jsx'
 import About from './Components/About/About.jsx'
 import Campus from './Components/Campus/Campus.jsx'
+import Testimonials from './Components/Testimonials/Testimonials.jsx'
 
 function App() {
   
@@ -21,6 +22,10 @@ function App() {
         <Title subtitle = 'Gallery' title = 'Campus Photos'/>
         <Campus/>
         <Title subtitle='Testimonials' title = 'What student says'/>
+
+        <Testimonials/> 
+
+
       </div>
      </div>
   )
