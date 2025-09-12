@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Navbar from './Components/Navbar/Navbar.jsx';
-import Hero from './Components/Hero/hero.jsx'
+import Hero from './Components/Hero/Hero.jsx'
 import Program from './Components/Program/Program.jsx'
 import Title from './Components/Title/Title.jsx'
 import About from './Components/About/About.jsx'
